@@ -1,0 +1,26 @@
+let score ="33aaa"
+
+let valueInNumber = Number(score)
+
+// console.log(typeof score)
+// console.log(valueInNumber)
+
+
+
+// Operations
+// primitive datatype
+
+console.log("1"+2)  //12
+console.log(1+"2") //12
+console.log("a" + 2 + 2) // 122
+console.log(1+ "2" + 5) //125
+
+console.log(1+true); //2
+console.log(+true) //1 
+console.log(true+9) //1 
+
+let game = 100
+
+++game;
+console.log(++game);
+
